@@ -28,7 +28,7 @@ export default function Posts() {
                 <div className="row gx-4 gx-lg-5 justify-content-center">
                     <div className="col-md-10 col-lg-8 col-xl-7">
 
-                        <PostItem title={'Merhaba Dünya'} subTitle={'Bu benim ilk yazım'} slug={'/merhaba-dunya'} publishDate={'11 Ekim 2023'} author={'Ceylan SELKİ'} authorSlug={'/yazar/orhan-ekici'} />
+                        <PostItem title={'Merhaba Dünya'} subTitle={'Bu benim ilk yazım'} slug={'/merhaba-dunya'} publishDate={'24 Eylül 2023'} author={'Orhan Ekici'} authorSlug={'/yazar/orhan-ekici'} />
                         
                         {/* <!-- Pager--> */}
                         {/* <div className="d-flex justify-content-end mb-4"><a className="btn btn-primary text-uppercase" href="#!">Older Posts →</a></div> */}
